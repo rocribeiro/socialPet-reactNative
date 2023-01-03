@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.4.0",
-    "expo-cli": "^3.4.1",
+    "expo-cli": "^3.28.6",
     "native-base": "^2.13.8",
     "react": "16.8.3",
     "react-cloud-vision-api": "^0.3.0",
